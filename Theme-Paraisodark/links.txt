@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Paraisodark
+https://orta.io/vscode-themes/images//Paraiso_dark.png

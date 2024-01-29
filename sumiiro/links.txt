@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=kyoh86.sumiiro
+https://orta.io/vscode-themes/images//Sumiiro.png

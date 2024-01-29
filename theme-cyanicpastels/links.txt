@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=SamuelLampa.theme-cyanicpastels
+https://orta.io/vscode-themes/images//Cyanic%20Pastels.png

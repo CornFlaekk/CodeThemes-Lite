@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Hammer
+https://orta.io/vscode-themes/images//Hammer.png

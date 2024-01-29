@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=will-stone.plastic
+https://orta.io/vscode-themes/images//Plastic%20-%20deprioritised%20punctuation.png

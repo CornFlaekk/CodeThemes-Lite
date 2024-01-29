@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Choco
+https://orta.io/vscode-themes/images//Choco.png

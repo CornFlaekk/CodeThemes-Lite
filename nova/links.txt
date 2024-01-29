@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=rebornix.nova
+https://orta.io/vscode-themes/images//Nova.png

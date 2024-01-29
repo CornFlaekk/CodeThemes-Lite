@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=devansisson.electric-theme
+https://orta.io/vscode-themes/images//Electric%20Theme.png

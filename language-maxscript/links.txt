@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=atelierbump.language-maxscript
+https://orta.io/vscode-themes/images//One%20Dark%20MXS.png

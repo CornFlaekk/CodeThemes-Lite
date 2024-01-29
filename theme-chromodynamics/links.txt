@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=lei.theme-chromodynamics
+https://orta.io/vscode-themes/images//Chromodynamics.png

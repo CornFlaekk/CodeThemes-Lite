@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=calvein.oceanicnext-light
+https://orta.io/vscode-themes/images//Oceanic%20Next%20Light.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=yomed.theme-dracula-soft
+https://orta.io/vscode-themes/images//Dracula%20Soft%20Syntax%20Theme.png

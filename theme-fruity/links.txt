@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=feego.theme-fruity
+https://orta.io/vscode-themes/images//Fruity.png

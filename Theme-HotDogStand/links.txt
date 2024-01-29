@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-HotDogStand
+https://orta.io/vscode-themes/images//HotDogStand.png

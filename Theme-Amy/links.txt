@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Amy
+https://orta.io/vscode-themes/images//Amy.png

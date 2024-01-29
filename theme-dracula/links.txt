@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Dracula
+https://orta.io/vscode-themes/images//Dracula.png

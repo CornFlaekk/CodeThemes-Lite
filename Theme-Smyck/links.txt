@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Smyck
+https://orta.io/vscode-themes/images//Smyck.png

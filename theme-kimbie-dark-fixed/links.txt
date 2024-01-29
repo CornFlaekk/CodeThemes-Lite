@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=anassb.theme-kimbie-dark-fixed
+https://orta.io/vscode-themes/images//Kimbie%20Dark%20Fixed.png

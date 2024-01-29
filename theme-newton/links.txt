@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=bertolinimarco.theme-newton
+https://orta.io/vscode-themes/images//Newton.png

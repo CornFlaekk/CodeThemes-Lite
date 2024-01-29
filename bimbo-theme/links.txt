@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.bimbo-theme
+https://orta.io/vscode-themes/images//Bimbo%20Theme.png

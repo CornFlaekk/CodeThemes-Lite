@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-IridiumStar
+https://orta.io/vscode-themes/images//IridiumStar.png

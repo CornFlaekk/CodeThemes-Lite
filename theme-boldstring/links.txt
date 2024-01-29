@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=fsouza.theme-boldstring
+https://orta.io/vscode-themes/images//BoldString.png

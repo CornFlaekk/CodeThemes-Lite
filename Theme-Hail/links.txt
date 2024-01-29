@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Hail
+https://orta.io/vscode-themes/images//Hail.png

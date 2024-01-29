@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=zrachod.splus-theme
+https://orta.io/vscode-themes/images//Splus.png

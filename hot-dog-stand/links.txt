@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=somekittens.hot-dog-stand
+https://orta.io/vscode-themes/images//Hot%20Dog%20Stand.png

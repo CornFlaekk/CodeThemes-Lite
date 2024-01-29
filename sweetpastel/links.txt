@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Mahmood.sweetpastel
+https://orta.io/vscode-themes/images//SweetPastel.png

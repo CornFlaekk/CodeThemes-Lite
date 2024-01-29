@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Symfony
+https://orta.io/vscode-themes/images//Symfony.png

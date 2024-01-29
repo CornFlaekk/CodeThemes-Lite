@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jeffboek.theme-bigduo
+https://orta.io/vscode-themes/images//Big%20Duo.png

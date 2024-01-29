@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Julisep.light-cyan-theme
+https://orta.io/vscode-themes/images//Light%20Cyan%20Theme.png

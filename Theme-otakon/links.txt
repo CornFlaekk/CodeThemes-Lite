@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-otakon
+https://orta.io/vscode-themes/images//otakon.png

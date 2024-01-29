@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=splo0sh.theme-easydarkdimm
+https://orta.io/vscode-themes/images//Easy%20Dark%20Dimm.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=brainsandspace.one-monokai-plus
+https://orta.io/vscode-themes/images//One%20Monokai%20Plus.png

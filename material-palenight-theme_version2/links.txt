@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme
+https://orta.io/vscode-themes/images//Material%20Palenight.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-tribal
+https://orta.io/vscode-themes/images//tribal.png

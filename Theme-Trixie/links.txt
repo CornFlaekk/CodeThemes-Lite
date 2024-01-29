@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Trixie
+https://orta.io/vscode-themes/images//Trixie.png

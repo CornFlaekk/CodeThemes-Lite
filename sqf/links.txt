@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Armitxes.sqf
+https://orta.io/vscode-themes/images//[SQF]%20Dark%20Theme.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Aarilight.theme-azurish
+https://orta.io/vscode-themes/images//Azurish.png

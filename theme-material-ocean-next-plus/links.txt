@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=fthiagogv.theme-material-ocean-next-plus
+https://orta.io/vscode-themes/images//Material%20Ocean%20Next%20Theme%20+.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ceymard.mojojo
+https://orta.io/vscode-themes/images//Mojojo%20Purple.png

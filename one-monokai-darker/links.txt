@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=victormejia.one-monokai-darker
+https://orta.io/vscode-themes/images//One%20Monokai%20Darker.png

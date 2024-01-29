@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=poga.theme-hybrid-operator
+https://orta.io/vscode-themes/images//Hybrid%20Operator.png

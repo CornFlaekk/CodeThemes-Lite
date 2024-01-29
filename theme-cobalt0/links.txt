@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=sharksym.theme-cobalt0
+https://orta.io/vscode-themes/images//Cobalt0.png

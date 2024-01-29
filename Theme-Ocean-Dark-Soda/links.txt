@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Ocean-Dark-Soda
+https://orta.io/vscode-themes/images//Ocean-Dark-Soda.png

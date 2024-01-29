@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=meatrobot.tangotango
+https://orta.io/vscode-themes/images//tangotango.png

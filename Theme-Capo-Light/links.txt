@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Capo-Light
+https://orta.io/vscode-themes/images//Capo-Light.png

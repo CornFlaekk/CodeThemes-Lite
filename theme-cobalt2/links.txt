@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2
+https://orta.io/vscode-themes/images//Cobalt2.png

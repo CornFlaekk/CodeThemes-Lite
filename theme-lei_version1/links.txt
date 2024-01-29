@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=leizongmin.theme-lei
+https://orta.io/vscode-themes/images//Lei%20Dark.png

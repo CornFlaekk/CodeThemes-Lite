@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=davidbabel.Theme-Monokai-Easylight
+https://orta.io/vscode-themes/images//Monokai-EasyLight.png

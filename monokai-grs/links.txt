@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=GoliafRS.monokai-grs
+https://orta.io/vscode-themes/images//Monokai%20GRS.png

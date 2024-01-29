@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Paraisolight
+https://orta.io/vscode-themes/images//Paraiso_light.png

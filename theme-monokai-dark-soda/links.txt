@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=AdamCaviness.theme-monokai-dark-soda
+https://orta.io/vscode-themes/images//Monokai%20Dark%20Soda.png

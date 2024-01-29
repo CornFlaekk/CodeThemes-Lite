@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Pustur.calamity-vscode
+https://orta.io/vscode-themes/images//Calamity.png

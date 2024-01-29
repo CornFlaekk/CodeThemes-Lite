@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=eisisig.theme-candy-cane
+https://orta.io/vscode-themes/images//candy-cane.png

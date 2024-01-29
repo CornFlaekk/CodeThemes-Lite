@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Rebecca-dark
+https://orta.io/vscode-themes/images//Rebecca-dark.png

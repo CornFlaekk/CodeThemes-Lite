@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Juliafin.Tropical
+https://orta.io/vscode-themes/images//Tropical.png

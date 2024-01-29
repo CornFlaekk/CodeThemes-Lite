@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Darksidelightselection
+https://orta.io/vscode-themes/images//Darkside_light_selection.png

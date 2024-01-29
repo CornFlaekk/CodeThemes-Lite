@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=schalla.sda
+https://orta.io/vscode-themes/images//Monokai-SDA.png

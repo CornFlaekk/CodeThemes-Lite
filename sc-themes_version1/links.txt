@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=SynCap.sc-themes
+https://orta.io/vscode-themes/images//SC%20-%20Arctic%20Night.png

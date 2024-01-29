@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=coastermcgee.coda-classic-theme
+https://orta.io/vscode-themes/images//Coda%20Classic.png

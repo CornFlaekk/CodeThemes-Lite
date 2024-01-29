@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=junsuzuki.theme-japanesque
+https://orta.io/vscode-themes/images//Japanesque%20Light.png

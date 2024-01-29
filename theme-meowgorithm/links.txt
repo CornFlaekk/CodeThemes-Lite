@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=meowgorithm.theme-meowgorithm
+https://orta.io/vscode-themes/images//Meowgorithm.png

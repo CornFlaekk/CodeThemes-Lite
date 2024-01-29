@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Amber
+https://orta.io/vscode-themes/images//Amber.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-blackboard-plus
+https://orta.io/vscode-themes/images//Blackboard%20Plus.png

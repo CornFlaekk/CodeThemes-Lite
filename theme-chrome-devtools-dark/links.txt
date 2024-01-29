@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ivanzusko.theme-chrome-devtools-dark
+https://orta.io/vscode-themes/images//Dark%20Chrome%20DevTools.png

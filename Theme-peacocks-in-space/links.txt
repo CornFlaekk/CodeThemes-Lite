@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-peacocks-in-space
+https://orta.io/vscode-themes/images//peacocks-in-space.png

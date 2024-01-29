@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gllwy.theme-firewatch
+https://orta.io/vscode-themes/images//Firewatch.png

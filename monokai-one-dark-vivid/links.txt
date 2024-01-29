@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ashpowell.monokai-one-dark-vivid
+https://orta.io/vscode-themes/images//Monokai%20One%20Dark%20Vivid.png

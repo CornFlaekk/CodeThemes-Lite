@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=kleber-swf.ocean-dark-extended
+https://orta.io/vscode-themes/images//Ocean%20Dark%20Extended.png

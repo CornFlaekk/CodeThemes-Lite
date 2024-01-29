@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jsnjack.theme-komodo-classic
+https://orta.io/vscode-themes/images//Komodo%20classic.png

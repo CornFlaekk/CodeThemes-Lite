@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Gedit
+https://orta.io/vscode-themes/images//Gedit.png

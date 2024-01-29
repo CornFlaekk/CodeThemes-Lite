@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jbw91.theme-material-dark-soda
+https://orta.io/vscode-themes/images//Material%20Dark%20Soda.png

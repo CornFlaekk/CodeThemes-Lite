@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=evrowe.cold-snack
+https://orta.io/vscode-themes/images//Cold%20Snack.png

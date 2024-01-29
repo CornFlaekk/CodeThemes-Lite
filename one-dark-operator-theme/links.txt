@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=kvnxush.one-dark-operator-theme
+https://orta.io/vscode-themes/images//One%20Dark%20Operator%20Theme.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jfpedro.cloud9theme
+https://orta.io/vscode-themes/images//Cloud9%20Inpired%20Theme.png

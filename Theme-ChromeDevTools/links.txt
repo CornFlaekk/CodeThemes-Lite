@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-ChromeDevTools
+https://orta.io/vscode-themes/images//Chrome_DevTools.png

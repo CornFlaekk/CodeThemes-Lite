@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-WarpOS
+https://orta.io/vscode-themes/images//WarpOS.png

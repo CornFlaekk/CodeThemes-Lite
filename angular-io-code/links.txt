@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=NoHomey.angular-io-code
+https://orta.io/vscode-themes/images//Angular-io-Code.png

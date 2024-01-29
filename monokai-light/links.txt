@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=zoxon.monokai-light
+https://orta.io/vscode-themes/images//Monokai%20Light%20Theme.png

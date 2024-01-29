@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Valiantsin.operatormonodarktheme
+https://orta.io/vscode-themes/images//Operator%20Mono%20Dark%20Theme.png

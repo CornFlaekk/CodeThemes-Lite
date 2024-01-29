@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit
+https://orta.io/vscode-themes/images//Markdown%20Editor%20Dark.png

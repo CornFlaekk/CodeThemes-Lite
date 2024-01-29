@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=saurabhsharma.ciapre-mod
+https://orta.io/vscode-themes/images//Ciapre%20Mod.png

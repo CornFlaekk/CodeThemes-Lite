@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=davidmart.theme-jsfiddle-like-syntax-vscode
+https://orta.io/vscode-themes/images//JSFiddle-like-syntax-vscode.png

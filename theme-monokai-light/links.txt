@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=anoff.theme-monokai-light
+https://orta.io/vscode-themes/images//Monokai%20Light.png

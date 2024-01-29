@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=rbolsius.theme-nightshade
+https://orta.io/vscode-themes/images//Nightshade.png

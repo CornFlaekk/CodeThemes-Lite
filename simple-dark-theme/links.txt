@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=manutero.simple-dark-theme
+https://orta.io/vscode-themes/images//Simple%20Dark.png

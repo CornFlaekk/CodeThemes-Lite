@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=f4lcon.falconcobalt
+https://orta.io/vscode-themes/images//FalconCobalt.png

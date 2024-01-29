@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=keydone.monokai
+https://orta.io/vscode-themes/images//Monokai_kd.png

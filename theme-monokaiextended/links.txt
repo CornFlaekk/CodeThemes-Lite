@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Scatolina.theme-monokaiextended
+https://orta.io/vscode-themes/images//Monokai%20Extended.png

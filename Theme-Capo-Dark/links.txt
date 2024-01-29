@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Capo-Dark
+https://orta.io/vscode-themes/images//Capo-Dark.png

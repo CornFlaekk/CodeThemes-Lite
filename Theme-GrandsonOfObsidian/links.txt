@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-GrandsonOfObsidian
+https://orta.io/vscode-themes/images//GrandsonOfObsidian.png

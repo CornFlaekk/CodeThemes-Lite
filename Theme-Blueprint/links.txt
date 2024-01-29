@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=giladgray.theme-blueprint
+https://orta.io/vscode-themes/images//Blueprint.png

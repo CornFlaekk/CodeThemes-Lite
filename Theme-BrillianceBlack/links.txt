@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-BrillianceBlack
+https://orta.io/vscode-themes/images//Brilliance_Black.png

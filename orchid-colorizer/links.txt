@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=patrickfatrick.orchid-colorizer
+https://orta.io/vscode-themes/images//Orchid%20Colorizer.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Monokai-Aurora
+https://orta.io/vscode-themes/images//Monokai-Aurora.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Heron.firefox-devtools-theme
+https://orta.io/vscode-themes/images//Firefox%20DevTools%20Dark%20Theme.png

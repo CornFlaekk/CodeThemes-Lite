@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=handsomeone.8bit
+https://orta.io/vscode-themes/images//8bit.png

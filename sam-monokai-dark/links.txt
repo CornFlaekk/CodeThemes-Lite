@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=samyao.sam-monokai-dark
+https://orta.io/vscode-themes/images//Sam%20Monokai%20Dark.png

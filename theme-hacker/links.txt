@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=wsds.theme-hacker
+https://orta.io/vscode-themes/images//Hacker.png

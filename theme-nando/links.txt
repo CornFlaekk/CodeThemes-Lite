@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=hectorfhurtadovscode.theme-nando
+https://orta.io/vscode-themes/images//Nando%20theme.png

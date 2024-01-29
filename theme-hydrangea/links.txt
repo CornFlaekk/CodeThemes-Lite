@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=linjus.theme-hydrangea
+https://orta.io/vscode-themes/images//hydrangea.png

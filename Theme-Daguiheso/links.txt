@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Daguiheso
+https://orta.io/vscode-themes/images//Daguiheso.png

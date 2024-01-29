@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-FocusDark
+https://orta.io/vscode-themes/images//Focus_Dark.png

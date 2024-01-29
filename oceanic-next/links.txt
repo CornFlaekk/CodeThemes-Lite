@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jesussaves.oceanic-next
+https://orta.io/vscode-themes/images//oceanicnext.png

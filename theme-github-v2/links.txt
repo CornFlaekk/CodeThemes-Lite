@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=formulahendry.theme-github-v2
+https://orta.io/vscode-themes/images//GitHub%20V2%20Theme.png

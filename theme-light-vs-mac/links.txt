@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jamiewest.theme-light-vs-mac
+https://orta.io/vscode-themes/images//Light%20(Visual%20Studio%20for%20Mac).png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Anarchist
+https://orta.io/vscode-themes/images//Anarchist.png

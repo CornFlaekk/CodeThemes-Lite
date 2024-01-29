@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Shadows
+https://orta.io/vscode-themes/images//Shadows.png

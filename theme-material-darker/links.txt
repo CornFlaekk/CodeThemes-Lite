@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jantto.theme-material-darker
+https://orta.io/vscode-themes/images//Material%20Darker.png

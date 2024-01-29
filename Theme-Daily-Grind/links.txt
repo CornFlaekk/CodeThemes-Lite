@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Daily-Grind
+https://orta.io/vscode-themes/images//Daily-Grind.png

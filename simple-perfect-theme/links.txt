@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=teoxoy.simple-perfect-theme
+https://orta.io/vscode-themes/images//SimplePerfect.png

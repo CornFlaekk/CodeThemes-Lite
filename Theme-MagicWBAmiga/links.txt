@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-MagicWBAmiga
+https://orta.io/vscode-themes/images//MagicWB_Amiga.png

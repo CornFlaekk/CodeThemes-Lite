@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=smlombardi.darcula-extended
+https://orta.io/vscode-themes/images//Darcula%20Extended.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC
+https://orta.io/vscode-themes/images//NaturalContrast-HC.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=cyberchefjay.primer-theme
+https://orta.io/vscode-themes/images//Primer%20(dark).png

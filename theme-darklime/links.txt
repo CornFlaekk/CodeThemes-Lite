@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=alexhuszagh.theme-darklime
+https://orta.io/vscode-themes/images//Darklime.png

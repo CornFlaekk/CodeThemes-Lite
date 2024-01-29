@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian
+https://orta.io/vscode-themes/images//(Actual)%20Obsidian%20(legacy).png

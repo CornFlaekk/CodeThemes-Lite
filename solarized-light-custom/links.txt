@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=bbrakenhoff.solarized-light-custom
+https://orta.io/vscode-themes/images//Solarized%20Light%20Custom.png

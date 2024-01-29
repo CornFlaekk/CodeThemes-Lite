@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Snappy
+https://orta.io/vscode-themes/images//Snappy.png

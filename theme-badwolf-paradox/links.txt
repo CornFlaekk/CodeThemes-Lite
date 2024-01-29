@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=thracian.theme-badwolf-paradox
+https://orta.io/vscode-themes/images//Badwolf%20Paradox.png

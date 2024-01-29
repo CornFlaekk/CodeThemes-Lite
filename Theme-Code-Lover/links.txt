@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Code-Lover
+https://orta.io/vscode-themes/images//Code-Lover.png

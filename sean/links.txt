@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=sean.sean
+https://orta.io/vscode-themes/images//sean.png

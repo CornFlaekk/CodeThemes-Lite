@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Northerntwig.magoon
+https://orta.io/vscode-themes/images//Magoon.png

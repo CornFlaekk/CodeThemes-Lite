@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Solarized-light
+https://orta.io/vscode-themes/images//Solarized-light.png

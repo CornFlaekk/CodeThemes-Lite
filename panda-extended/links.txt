@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=dhedgecock.panda-extended
+https://orta.io/vscode-themes/images//Panda%20Extended.png

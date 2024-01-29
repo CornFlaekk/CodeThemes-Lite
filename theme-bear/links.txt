@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=dahong.theme-bear
+https://orta.io/vscode-themes/images//Theme%20Bear.png

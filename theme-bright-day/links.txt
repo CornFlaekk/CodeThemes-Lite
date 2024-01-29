@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Squarelogic.theme-bright-day
+https://orta.io/vscode-themes/images//Bright%20Day.png

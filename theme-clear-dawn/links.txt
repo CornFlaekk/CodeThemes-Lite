@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ivanhernandez.theme-clear-dawn
+https://orta.io/vscode-themes/images//Clear%20Dawn.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=bernardodsanderson.theme-firewatchneutral
+https://orta.io/vscode-themes/images//Firewatch%20Neutral.png

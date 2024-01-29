@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=erikcharlebois.theme-erikc
+https://orta.io/vscode-themes/images//erikc.png

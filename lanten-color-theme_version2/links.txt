@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=lanten.lanten-color-theme
+https://orta.io/vscode-themes/images//lanten-color-theme-light.png

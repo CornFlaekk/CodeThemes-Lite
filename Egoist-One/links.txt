@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=Zyst.Egoist-One
+https://orta.io/vscode-themes/images//Egoist%20One.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=k3a.theme-dark-plus-contrast
+https://orta.io/vscode-themes/images//Dark+%20(contrast).png

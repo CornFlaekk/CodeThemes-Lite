@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Purrora
+https://orta.io/vscode-themes/images//Purrora.png

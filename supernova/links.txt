@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=tyrannicaltoucan.supernova
+https://orta.io/vscode-themes/images//Supernova.png

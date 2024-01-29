@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=dakara.theme-dakara
+https://orta.io/vscode-themes/images//Dakara.png

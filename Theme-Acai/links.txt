@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Acai
+https://orta.io/vscode-themes/images//Acai.png

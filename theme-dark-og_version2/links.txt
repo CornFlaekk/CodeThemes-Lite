@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=bobmagicii.theme-dark-og
+https://orta.io/vscode-themes/images//Dark%20OG.png

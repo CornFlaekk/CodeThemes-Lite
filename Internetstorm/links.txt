@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=eddyvinck.Internetstorm
+https://orta.io/vscode-themes/images//InternetstormBold.png

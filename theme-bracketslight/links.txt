@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ullissescastro.theme-bracketslight
+https://orta.io/vscode-themes/images//Brackets%20Light.png

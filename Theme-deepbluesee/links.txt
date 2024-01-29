@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-deepbluesee
+https://orta.io/vscode-themes/images//deep_blue_see.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=harai.light-theme-for-color-blind-people
+https://orta.io/vscode-themes/images//Light%20Theme%20for%20Color%20Blind%20People.png

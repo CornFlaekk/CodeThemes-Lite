@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=obrejla.netbeans-light-theme
+https://orta.io/vscode-themes/images//NetBeans%20Light%20Theme.png

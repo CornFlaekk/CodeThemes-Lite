@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=reloadedextensions.reloaded-themes
+https://orta.io/vscode-themes/images//Reloaded%20Light%20[Default].png

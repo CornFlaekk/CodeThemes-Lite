@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-8-Colour-Dark
+https://orta.io/vscode-themes/images//8-Colour-Dark.png

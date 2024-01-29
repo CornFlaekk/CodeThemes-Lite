@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=casualjim.theme-desertex
+https://orta.io/vscode-themes/images//DesertEx.png

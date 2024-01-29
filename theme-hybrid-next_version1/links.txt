@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=wyze.theme-hybrid-next
+https://orta.io/vscode-themes/images//Hybrid%20Next%20(Gray%20Background).png

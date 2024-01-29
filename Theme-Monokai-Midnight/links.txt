@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Monokai-Midnight
+https://orta.io/vscode-themes/images//Monokai-Midnight.png

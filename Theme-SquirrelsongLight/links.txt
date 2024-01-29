@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=sapegin.Theme-SquirrelsongLight
+https://orta.io/vscode-themes/images//Squirrelsong%20Light.png

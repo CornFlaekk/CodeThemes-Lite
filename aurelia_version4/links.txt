@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=AureliaEffect.aurelia
+https://orta.io/vscode-themes/images//Aurelia%20Light+.png

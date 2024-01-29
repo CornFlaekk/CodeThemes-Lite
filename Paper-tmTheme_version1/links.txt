@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=DiryoX.Paper-tmTheme
+https://orta.io/vscode-themes/images//Paper%20Dark.png

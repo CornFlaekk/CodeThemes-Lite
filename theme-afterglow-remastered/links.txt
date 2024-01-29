@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=marvinhagemeister.theme-afterglow-remastered
+https://orta.io/vscode-themes/images//Afterglow%20Remastered.png

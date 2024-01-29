@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=sn0wcat.short-paw-theme
+https://orta.io/vscode-themes/images//Short%20Paw%20(dark).png

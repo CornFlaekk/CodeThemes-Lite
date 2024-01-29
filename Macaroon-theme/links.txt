@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=sean.Macaroon-theme
+https://orta.io/vscode-themes/images//Macaroon%20Theme.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=DengSir.monokai-dark-soda-modified
+https://orta.io/vscode-themes/images//Monokai%20Dark%20Soda%20Modified.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=manutero.5-colors-dark
+https://orta.io/vscode-themes/images//5%20Colors%20Dark.png

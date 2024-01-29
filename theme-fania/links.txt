@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=fania.theme-fania
+https://orta.io/vscode-themes/images//Fania.png

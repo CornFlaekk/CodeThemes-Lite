@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=bbrakenhoff.seabird
+https://orta.io/vscode-themes/images//seabird%20-%20storm%20petrel.png

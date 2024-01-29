@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=mocoding.theme-mocoding-d
+https://orta.io/vscode-themes/images//Mocoding-D.png

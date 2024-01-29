@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=axiomaticstudios.one-monokai-80s
+https://orta.io/vscode-themes/images//One%20Monokai%2080s.png

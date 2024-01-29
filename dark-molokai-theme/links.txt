@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=nonylene.dark-molokai-theme
+https://orta.io/vscode-themes/images//Dark%20(Molokai).png

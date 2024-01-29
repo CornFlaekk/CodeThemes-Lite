@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=lrecknagel.one-monokai-italic
+https://orta.io/vscode-themes/images//One%20Monokai%20Italic.png

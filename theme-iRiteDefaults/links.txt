@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=LethalXLasher.theme-iRiteDefaults
+https://orta.io/vscode-themes/images//iRite+%20(default%20dark).png

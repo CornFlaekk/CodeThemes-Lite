@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Kane
+https://orta.io/vscode-themes/images//Kane.png

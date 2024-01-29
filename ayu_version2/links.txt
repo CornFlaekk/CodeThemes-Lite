@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=teabyii.ayu
+https://orta.io/vscode-themes/images//Ayu%20Light.png

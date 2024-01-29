@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=markfknight.monokai-operator-theme
+https://orta.io/vscode-themes/images//Monokai%20Operator%20Code.png

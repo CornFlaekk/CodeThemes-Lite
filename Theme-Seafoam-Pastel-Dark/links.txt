@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Seafoam-Pastel-Dark
+https://orta.io/vscode-themes/images//Seafoam-Pastel-Dark.png

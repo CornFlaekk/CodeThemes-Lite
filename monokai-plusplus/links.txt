@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=dcasella.monokai-plusplus
+https://orta.io/vscode-themes/images//Monokai++.png

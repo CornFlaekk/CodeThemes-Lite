@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-LAZY
+https://orta.io/vscode-themes/images//LAZY.png

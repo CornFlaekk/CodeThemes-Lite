@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=albizures.theme-happy-monokai
+https://orta.io/vscode-themes/images//Happy%20Monokai.png

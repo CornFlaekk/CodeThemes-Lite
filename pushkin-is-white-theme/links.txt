@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=ispushkin.pushkin-is-white-theme
+https://orta.io/vscode-themes/images//Pushkin%20is%20White%20Theme.png

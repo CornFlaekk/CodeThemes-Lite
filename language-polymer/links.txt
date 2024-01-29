@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jonwolfe.language-polymer
+https://orta.io/vscode-themes/images//Polymer%20Syntax%20Theme.png

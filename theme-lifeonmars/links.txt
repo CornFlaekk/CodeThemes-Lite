@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=jwoelper.theme-lifeonmars
+https://orta.io/vscode-themes/images//Life%20on%20mars.png

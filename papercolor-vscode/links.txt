@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=rozbo.papercolor-vscode
+https://orta.io/vscode-themes/images//papercolor-vscode.png

@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=andradei.minimal-colors
+https://orta.io/vscode-themes/images//Minimal%20Colors.png

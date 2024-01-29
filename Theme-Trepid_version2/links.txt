@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=enkrypt.Theme-Trepid
+https://orta.io/vscode-themes/images//Trepid.png

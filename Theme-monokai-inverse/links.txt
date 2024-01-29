@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-monokai-inverse
+https://orta.io/vscode-themes/images//monokai-inverse.png

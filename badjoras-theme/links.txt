@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=afnpires.badjoras-theme
+https://orta.io/vscode-themes/images//Badjoras.png

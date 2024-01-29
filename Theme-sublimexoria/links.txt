@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-sublimexoria
+https://orta.io/vscode-themes/images//sublime_xoria.png

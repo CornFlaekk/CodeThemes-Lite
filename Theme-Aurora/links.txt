@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=andrewcourtice.theme-aurora
+https://orta.io/vscode-themes/images//Aurora.png

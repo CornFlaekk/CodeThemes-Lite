@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=SolarLiner.linux-themes
+https://orta.io/vscode-themes/images//Adapta%20Nokto.png

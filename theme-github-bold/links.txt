@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gustavo.theme-github-bold
+https://orta.io/vscode-themes/images//GitHub%20Bold%20Theme.png

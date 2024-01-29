@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=gerane.Theme-monokate
+https://orta.io/vscode-themes/images//monokate.png

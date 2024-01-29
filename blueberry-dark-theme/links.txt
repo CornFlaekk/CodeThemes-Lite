@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=peymanslh.blueberry-dark-theme
+https://orta.io/vscode-themes/images//Blueberry%20dark%20theme.png

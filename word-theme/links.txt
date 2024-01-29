@@ -1,0 +1,2 @@
+https://marketplace.visualstudio.com/items?itemName=coastermcgee.word-theme
+https://orta.io/vscode-themes/images//Word.png
